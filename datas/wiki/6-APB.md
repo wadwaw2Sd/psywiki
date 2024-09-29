@@ -7,10 +7,9 @@
 
 | 结构 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Pregabalin.svg" alt="Pregabalin SVG" width="400"> |
 | ----------- | :-----------: |
-| CAS | 148553-50-8 |
-| 法律地位 | 处方药 |
-| 药效起始时间 | 1.5小时 |
-| 半衰期 | 6.3小时 |
+| CAS | 286834-85-3, 286834-84-2(HCI) |
+| 法律地位 | 违禁品 |
+| 公式 | C11H13NO |
 
 ## 药理学
 
