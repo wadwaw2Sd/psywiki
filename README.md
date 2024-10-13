@@ -1,4 +1,4 @@
-# psywiki
+# drug wiki
 * ## 投稿须知
   内容必须适配markdown语言，
   推送时确保文件的名称为词条，并且同时存在于datas/wiki以及datas/wiki/shorts下
