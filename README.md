@@ -26,7 +26,7 @@ psywiki是用来填写对应psywiki的网站，如果没有对应词条请留空
 
 在datas/wiki/shorts/里创建右美沙芬 按照telegram官方支持的HTML格式编写
 
-## 关于datas/wiki/xx.md的编写格式
+## 关于datas/wiki/xx.md的编写格式，必须使用markdown格式，如果你不会建议你直接写下来让我来修改，请不要乱提交！
 <pre>
 ## 中文名 英文名
 
