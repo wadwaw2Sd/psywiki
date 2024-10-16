@@ -2,12 +2,12 @@
   {
     "id": "右美沙芬",
     "names": ["右美沙芬", "dxm", "cas125-71-3", "ymsf"],
-    "wiki": ""
+    "wiki": "https://www.od-wiki.com/Drugs/DXM.html"
   },
   {
     "id": "普瑞巴林",
     "names": ["普瑞巴林", "pregabalin", "cas148553-50-8", "prbl"],
-    "wiki": ""
+    "wiki": "https://www.od-wiki.com/Drugs/PR.html"
   },
   {
     "id": "14丁二醇",
@@ -17,17 +17,17 @@
   {
     "id": "巴氯芬",
     "names": ["巴氯芬", "baclofen", "balvfen"],
-    "wiki": ""
+    "wiki": "https://www.od-wiki.com/Drugs/BCF.html"
   },
   {
     "id": "美金刚",
     "names": ["美金刚", "memantine", "mjg"],
-    "wiki": ""
+    "wiki": "https://www.od-wiki.com/Drugs/MMT.html"
   },
   {
     "id": "金刚烷胺",
     "names": ["金刚烷胺", "amantadine", "cas768-94-5", "jgwn"],
-    "wiki": ""
+    "wiki": "https://www.od-wiki.com/Drugs/ATD.html"
   },
   {
     "id": "苯乙胺",
@@ -37,7 +37,7 @@
   {
     "id": "苯海索",
     "names": ["苯海索", "trihexyphenidyl", "cas144-11-6", "benzhexol"],
-    "wiki": ""
+    "wiki": "https://www.od-wiki.com/Drugs/THP.html"
   },
   {
     "id": "艾莫西平",
