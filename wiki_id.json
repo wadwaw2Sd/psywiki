@@ -1,0 +1,77 @@
+[
+  {
+    "id": "右美沙芬",
+    "names": ["右美沙芬", "dxm", "cas125-71-3", "ymsf"],
+    "wiki": ""
+  },
+  {
+    "id": "普瑞巴林",
+    "names": ["普瑞巴林", "pregabalin", "cas148553-50-8", "prbl"],
+    "wiki": ""
+  },
+  {
+    "id": "14丁二醇",
+    "names": ["14丁二醇", "14bdo", "1,4-丁二醇"],
+    "wiki": ""
+  },
+  {
+    "id": "巴氯芬",
+    "names": ["巴氯芬", "baclofen", "balvfen"],
+    "wiki": ""
+  },
+  {
+    "id": "美金刚",
+    "names": ["美金刚", "memantine", "mjg"],
+    "wiki": ""
+  },
+  {
+    "id": "金刚烷胺",
+    "names": ["金刚烷胺", "amantadine", "cas768-94-5", "jgwn"],
+    "wiki": ""
+  },
+  {
+    "id": "苯乙胺",
+    "names": ["苯乙胺", "pea"],
+    "wiki": "https://psychonautwiki.org/wiki/Phenethylamine_(compound)"
+  },
+  {
+    "id": "苯海索",
+    "names": ["苯海索", "trihexyphenidyl", "cas144-11-6", "benzhexol"],
+    "wiki": ""
+  },
+  {
+    "id": "艾莫西平",
+    "names": ["艾莫西平", "emoxypine", "cas2364-75-2"],
+    "wiki": ""
+  },
+  {
+    "id": "6-APB",
+    "names": ["6-apb", "cas286834-85-3", "cas286834-84-2", "6apb"],
+    "wiki": "https://psychonautwiki.org/wiki/6apb"
+  },
+  {
+    "id": "Sunifiram",
+    "names": ["sunifiram", "桑尼拉菲姆", "cas314728-85-3"],
+    "wiki": ""
+  },
+  {
+    "id": "二甲卡因",
+    "names": ["二甲卡因", "dimethocaine", "cas94-15-5"],
+    "wiki": ""
+  },
+  {
+    "id": "阿普唑仑",
+    "names": ["阿普唑仑", "alprazolam", "cas28981-97-7", "xanax"],
+    "wiki": "https://psychonautwiki.org/wiki/alprazolam"
+  },
+  {
+    "id": "相思汤",
+    "names": ["相思汤", "formosahuasca"],
+    "wiki": ""
+  },
+  {
+    "id": "Mephedrone",
+    "names": ["mephedrone", "甲氧麻黄酮", "4-mmc", "4mmc"],
+    "wiki": "https://psychonautwiki.org/wiki/Mephedrone"
+  }
+]
