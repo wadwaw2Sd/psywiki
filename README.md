@@ -27,6 +27,45 @@ psywiki是用来填写对应psywiki的网站，如果没有对应词条请留空
 在datas/wiki/shorts/里创建右美沙芬 按照telegram官方支持的HTML格式编写
 
 ## 关于datas/wiki/xx.md的编写格式
+<pre>
+    ## 中文名 英文名
+
+---
+
+简单的介绍
+
+| 结构 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Pregabalin.svg" alt="Pregabalin SVG" width="400"> |
+| ----------- | :-----------: |
+| CAS | 144-11-6  |
+| 法律地位 | 处方药 |
+| 药效起始时间 | x |
+| 半衰期 | 3.3-4.1小时 |
+
+## 药理学
+
+---
+
+填写
+
+## 娱乐用途
+
+> 所有的效果
+
+  中枢神经系统：
+
+  外周副作用：
+
+  眼睛：
+
+---
+
+## 药物相互作用
+
+---
+
+* 联用的哟啊u我
+  > 增加的效果
+</pre>
 
 ## 关于
   官方Telegram机器人 @DrugDataBot，.md结尾的文件点开就能直接查看相关信息，建议关注机器人，防止仓库封禁后找不到新的仓库。
