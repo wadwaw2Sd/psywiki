@@ -2,113 +2,81 @@
   {
     "id": "右美沙芬",
     "names": ["右美沙芬", "dxm", "cas125-71-3", "ymsf"],
-    "wiki": "github",
-    "odwiki": "https://www.od-wiki.com/Drugs/DXM.html",
-    "psywiki": "https://psychonautwiki.org/wiki/Dextromethorphan"
+    "wiki": "github"
   },
   {
     "id": "普瑞巴林",
     "names": ["普瑞巴林", "pregabalin", "cas148553-50-8", "prbl"],
-    "wiki": "github",
-    "odwiki": "https://www.od-wiki.com/Drugs/PR.html",
-    "psywiki": ""
+    "wiki": "github"
   },
   {
     "id": "14丁二醇",
     "names": ["14丁二醇", "14bdo", "1,4-丁二醇"],
-    "wiki": "github",
-    "odwiki": "",
-    "psywiki": ""
+    "wiki": "github"
   },
   {
     "id": "巴氯芬",
     "names": ["巴氯芬", "baclofen", "balvfen"],
-    "wiki": "github",
-    "odwiki": "https://www.od-wiki.com/Drugs/BCF.html",
-    "psywiki": ""
+    "wiki": "github"
   },
   {
     "id": "美金刚",
     "names": ["美金刚", "memantine", "mjg"],
-    "wiki": "github",
-    "odwiki": "https://www.od-wiki.com/Drugs/MMT.html",
-    "psywiki": ""
+    "wiki": "github"
   },
   {
     "id": "金刚烷胺",
     "names": ["金刚烷胺", "amantadine", "cas768-94-5", "jgwn"],
-    "wiki": "github",
-    "odwiki": "https://www.od-wiki.com/Drugs/ATD.html",
-    "psywiki": ""
+    "wiki": "github"
   },
   {
     "id": "苯乙胺",
     "names": ["苯乙胺", "pea"],
-    "wiki": "github",
-    "odwiki": "",
-    "psywiki": "https://psychonautwiki.org/wiki/Phenethylamine_(compound)"
+    "wiki": "https://psychonautwiki.org/wiki/Phenethylamine_(compound)"
   },
   {
     "id": "苯海索",
     "names": ["苯海索", "trihexyphenidyl", "cas144-11-6", "benzhexol"],
-    "wiki": "github",
-    "odwiki": "https://www.od-wiki.com/Drugs/THP.html",
-    "psywiki": ""
+    "wiki": "github"
   },
   {
     "id": "艾莫西平",
     "names": ["艾莫西平", "emoxypine", "cas2364-75-2"],
-    "wiki": "github",
-    "odwiki": "",
-    "psywiki": ""
+    "wiki": "github"
   },
   {
     "id": "6-APB",
     "names": ["6-apb", "cas286834-85-3", "cas286834-84-2", "6apb"],
-    "wiki": "github",
-    "odwiki": "",
-    "psywiki": "https://psychonautwiki.org/wiki/6apb"
+    "wiki": "github"
   },
   {
     "id": "Sunifiram",
     "names": ["sunifiram", "桑尼拉菲姆", "cas314728-85-3"],
-    "wiki": "github",
-    "odwiki": "",
-    "psywiki": ""
+    "wiki": "github"
   },
   {
     "id": "二甲卡因",
     "names": ["二甲卡因", "dimethocaine", "cas94-15-5"],
-    "wiki": "github",
-    "odwiki": "",
-    "psywiki": ""
+    "wiki": "github"
   },
   {
     "id": "阿普唑仑",
     "names": ["阿普唑仑", "alprazolam", "cas28981-97-7", "xanax"],
-    "wiki": "github",
-    "odwiki": "",
-    "psywiki": "https://psychonautwiki.org/wiki/alprazolam"
+    "wiki": "github"
   },
   {
     "id": "相思汤",
     "names": ["相思汤", "formosahuasca"],
-    "wiki": "github",
-    "odwiki": "",
-    "psywiki": ""
+    "wiki": "github"
   },
   {
     "id": "Mephedrone",
     "names": ["mephedrone", "甲氧麻黄酮", "4-mmc", "4mmc"],
-    "wiki": "github",
-    "odwiki": "",
-    "psywiki": "https://psychonautwiki.org/wiki/Mephedrone"
+    "wiki": "github"
   },
   {
     "id": "舍曲林",
     "names": ["舍曲林", "sertraline", "cas79617-96-2"],
-    "wiki": "github",
-    "odwiki": "",
-    "psywiki": ""
+    "wiki": "github"
   }
 ]
