@@ -78,5 +78,10 @@
     "id": "舍曲林",
     "names": ["舍曲林", "sertraline", "cas79617-96-2"],
     "wiki": "github"
+  },
+  {
+    "id": "洛哌丁胺",
+    "names": ["洛哌丁胺", "loperamide", "cas53179-11-6", "cas34552-83-5"],
+    "wiki": "github"
   }
 ]
