@@ -83,5 +83,10 @@
     "id": "洛哌丁胺",
     "names": ["洛哌丁胺", "loperamide", "cas53179-11-6", "cas34552-83-5"],
     "wiki": "github"
+  },
+  {
+    "id": "亚硝酸叔丁酯",
+    "names": ["亚硝酸叔丁酯", "tertbutylnitrite", "cas540-80-7"],
+    "wiki": "github"
   }
 ]
