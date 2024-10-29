@@ -91,7 +91,7 @@
   },
   {
     "id": "MEAI",
-    "names": ["MEAI", "73305-09-6"],
+    "names": ["MEAI", "meai", "73305-09-6"],
     "wiki": "github"
   }
 ]
