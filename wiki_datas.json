@@ -88,5 +88,10 @@
     "id": "亚硝酸叔丁酯",
     "names": ["亚硝酸叔丁酯", "tertbutylnitrite", "cas540-80-7"],
     "wiki": "github"
+  },
+  {
+    "id": "MEAI",
+    "names": ["MEAI", "73305-09-6"],
+    "wiki": "github"
   }
 ]
