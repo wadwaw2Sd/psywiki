@@ -91,7 +91,12 @@
   },
   {
     "id": "MEAI",
-    "names": ["MEAI", "meai", "73305-09-6"],
+    "names": ["MEAI", "meai", "cas73305-09-6"],
+    "wiki": "github"
+  },
+  {
+    "id": "替来他名",
+    "names": ["替来他名", "tiletamine ", "cas14176-49-9", "cas14176-50-2" ],
     "wiki": "github"
   }
 ]
