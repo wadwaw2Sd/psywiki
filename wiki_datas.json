@@ -98,5 +98,10 @@
     "id": "替来他名",
     "names": ["替来他名", "tiletamine", "cas14176-49-9", "cas14176-50-2"],
     "wiki": "github"
+  },
+  {
+    "id": "白兔Born",
+    "names": ["白兔Born", "白兔born"],
+    "wiki": "github"
   }
 ]
