@@ -108,5 +108,10 @@
     "id": "Methoxisopropamine",
     "names": ["methoxisopropamine", "甲氧基异丙胺", "mxipr", "2666932-55-2"],
     "wiki": "https://psychonautwiki.org/wiki/MXiPr"
+  },
+  {
+    "id": "劳拉西泮",
+    "names": ["劳拉西泮", "lorazepam", "846-49-1 "],
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%8A%B3%E6%8B%89%E8%A5%BF%E6%B3%AE"
   }
 ]
