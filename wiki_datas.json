@@ -91,7 +91,7 @@
   },
   {
     "id": "MEAI",
-    "names": ["MEAI", "meai", "cas73305-09-6"],
+    "names": ["meai", "cas73305-09-6"],
     "wiki": "github"
   },
   {
@@ -102,6 +102,11 @@
   {
     "id": "白兔Born",
     "names": ["白兔Born", "白兔born"],
+    "wiki": "github"
+  },
+  {
+    "id": "Methoxisopropamine",
+    "names": ["methoxisopropamine", "甲氧基异丙胺", "mxipr", "2666932-55-2"],
     "wiki": "github"
   }
 ]
