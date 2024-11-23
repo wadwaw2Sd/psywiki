@@ -113,5 +113,10 @@
     "id": "劳拉西泮",
     "names": ["劳拉西泮", "lorazepam", "846-49-1 "],
     "wiki": "https://zh.wikipedia.org/wiki/%E5%8A%B3%E6%8B%89%E8%A5%BF%E6%B3%AE"
+  },
+  {
+    "id": "DPT",
+    "names": ["二丙基色胺", "dpt", "61-52-9 "],
+    "wiki": "https://psychonautwiki.org/wiki/DPT"
   }
 ]
