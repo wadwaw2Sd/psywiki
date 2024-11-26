@@ -106,17 +106,22 @@
   },
   {
     "id": "Methoxisopropamine",
-    "names": ["methoxisopropamine", "甲氧基异丙胺", "mxipr", "2666932-55-2"],
+    "names": ["methoxisopropamine", "甲氧基异丙胺", "mxipr", "cas2666932-55-2"],
     "wiki": "https://psychonautwiki.org/wiki/MXiPr"
   },
   {
     "id": "劳拉西泮",
-    "names": ["劳拉西泮", "lorazepam", "846-49-1 "],
+    "names": ["劳拉西泮", "lorazepam", "cas846-49-1 "],
     "wiki": "https://zh.wikipedia.org/wiki/%E5%8A%B3%E6%8B%89%E8%A5%BF%E6%B3%AE"
   },
   {
     "id": "DPT",
-    "names": ["二丙基色胺", "dpt", "61-52-9 "],
+    "names": ["二丙基色胺", "dpt", "cas61-52-9 "],
     "wiki": "https://psychonautwiki.org/wiki/DPT"
+  },
+  {
+    "id": "甘草片",
+    "names": ["甘草片", "复方甘草片"],
+    "wiki": "github"
   }
 ]
