@@ -123,5 +123,10 @@
     "id": "甘草片",
     "names": ["甘草片", "复方甘草片"],
     "wiki": "github"
+  },
+  {
+    "id": "Escaline",
+    "names": ["escaline", "艾斯卡林", "cas39201-82-6"],
+    "wiki": "github"
   }
 ]
