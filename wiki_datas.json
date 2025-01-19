@@ -143,5 +143,10 @@
     "id": "唑吡坦",
     "names": ["唑吡坦", "Zolpidem", "思诺思"],
     "wiki": "github"
+  },
+  {
+    "id": "Methylpropyltryptamine",
+    "names": ["methylpropyltryptamine", "mpt", "甲基丙基色胺"],
+    "wiki": "github"
   }
 ]
