@@ -153,5 +153,10 @@
     "id": "2-Aminotetralin",
     "names": ["2-aminotetralin", "2-at", "2at", "cas1743-01-7", "cas2954-50-9"],
     "wiki": "github"
+  },
+  {
+    "id": "Xylazine",
+    "names": ["xylazine", "赛拉嗪", "二甲苯胺噻嗪"],
+    "wiki": "https://en.wikipedia.org/wiki/Xylazine"
   }
 ]
