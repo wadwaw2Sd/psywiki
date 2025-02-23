@@ -153,5 +153,10 @@
     "id": "Xylazine",
     "names": ["xylazine", "赛拉嗪", "二甲苯胺噻嗪"],
     "wiki": "https://en.wikipedia.org/wiki/Xylazine"
+  },
+  {
+    "id": "拉莫三嗪",
+    "names": ["拉莫三嗪", "lamotrigine"],
+    "wiki": "https://en.wikipedia.org/wiki/拉莫三嗪"
   }
 ]
