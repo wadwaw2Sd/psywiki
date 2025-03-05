@@ -158,5 +158,10 @@
     "id": "拉莫三嗪",
     "names": ["拉莫三嗪", "lamotrigine"],
     "wiki": "https://en.wikipedia.org/wiki/拉莫三嗪"
+  },
+  {
+    "id": "1-(4-氟苯基)哌嗪",
+    "names": ["1-(4-氟苯基)哌嗪", "1-(4-Fluorophenyl)Piperazine", "cas64090-19-3"],
+    "wiki": "https://en.wikipedia.org/wiki/1-(4-氟苯基)哌嗪"
   }
 ]
