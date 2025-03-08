@@ -163,5 +163,10 @@
     "id": "1-(4-氟苯基)哌嗪",
     "names": ["1-(4-氟苯基)哌嗪", "1-(4-fluorophenyl)piperazine", "cas64090-19-3"],
     "wiki": "https://en.wikipedia.org/wiki/1-(4-氟苯基)哌嗪"
+  },
+  {
+    "id": "愈美片",
+    "names": ["愈美片"],
+    "wiki": "github"
   }
 ]
