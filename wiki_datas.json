@@ -173,5 +173,10 @@
     "id": "二甲基色胺",
     "names": ["二甲基色胺", "dmt", "cas61-50-7"],
     "wiki": "https://zh.wikipedia.org/zh-cn/N,N-%E4%BA%8C%E7%94%B2%E5%9F%BA%E8%89%B2%E8%83%BA"
+  },
+  {
+    "id": "茶氨酸",
+    "names": ["茶氨酸", "theanine", "cas3081-61-6"],
+    "wiki": "https://zh.wikipedia.org/wiki/%E8%8C%B6%E6%B0%A8%E9%85%B8"
   }
 ]
