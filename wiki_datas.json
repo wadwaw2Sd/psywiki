@@ -8,7 +8,8 @@
   {
     "id": "普瑞巴林",
     "names": ["普瑞巴林", "pregabalin", "cas148553-50-8", "prbl"],
-    "wiki": "https://rcwiki.xyz/wiki/%E6%99%AE%E7%91%9E%E5%B7%B4%E6%9E%97"
+    "wiki": "https://rcwiki.xyz/wiki/%E6%99%AE%E7%91%9E%E5%B7%B4%E6%9E%97",
+    "wiki2": "https://overdose.day/zh/%E6%99%AE%E7%91%9E%E5%B7%B4%E6%9E%97"
   },
   {
     "id": "14丁二醇",
@@ -33,7 +34,8 @@
   {
     "id": "苯乙胺",
     "names": ["苯乙胺", "pea"],
-    "wiki": "https://rcwiki.xyz/wiki/%E8%8B%AF%E4%B9%99%E8%83%BA"
+    "wiki": "https://rcwiki.xyz/wiki/%E8%8B%AF%E4%B9%99%E8%83%BA",
+    "wiki2": "https://overdose.day/zh/%E8%8B%AF%E4%B9%99%E8%83%BA"
   },
   {
     "id": "苯海索",
