@@ -183,5 +183,15 @@
     "id": "茶氨酸",
     "names": ["茶氨酸", "theanine", "cas3081-61-6"],
     "wiki": "https://zh.wikipedia.org/wiki/%E8%8C%B6%E6%B0%A8%E9%85%B8"
+  },
+  {
+    "id": "D2PM",
+    "names": ["d2pm"],
+    "wiki": "https://rcwiki.xyz/wiki/D2PM"
+  },
+  {
+    "id": "Desoxy-D2PM",
+    "names": ["desoxy-d2pm"],
+    "wiki": "https://rcwiki.xyz/wiki/Desoxy-D2PM"
   }
 ]
